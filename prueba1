@@ -1,5 +1,5 @@
 
-from operations import add
+from operations import add, resta, multiplicacion, division, exponente, modulo
 
 def juego():
   puntaje = 0
