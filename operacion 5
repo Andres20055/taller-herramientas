@@ -1,4 +1,0 @@
-def exponente(numero1,numero2):
-  resultado= pow(numero1,numero2)
-  print(f'{numero1} pow{numero2} is equal to {resultado}')
-  return resultado
