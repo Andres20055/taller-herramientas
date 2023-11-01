@@ -1,0 +1,4 @@
+def modulo(numero1,numero2):
+  result= numero1 % numero2
+  print(f'{numero1} % {numero2} is equal to {resultado}')
+  return resultado
