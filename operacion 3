@@ -1,0 +1,4 @@
+def multiplicacion (numero1,numero2):
+  resultado= numero1 * numero2
+  print(f'{numero1} * {numero2} is equal to {resultado}')
+  return resultado
